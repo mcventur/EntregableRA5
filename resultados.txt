@@ -1,0 +1,14 @@
+ALEMANIA --> 3 puntos
+ARMENIA --> 12 puntos
+AUSTRALIA --> 40 puntos
+AUSTRIA --> 2 puntos
+BULGARIA --> 3 puntos
+FRANCIA --> 10 puntos
+HUNGRIA --> 12 puntos
+ITALIA --> 24 puntos
+MALTA --> 1 puntos
+POLONIA --> 3 puntos
+REINO UNIDO --> 13 puntos
+RUSIA --> 12 puntos
+SERBIA --> 10 puntos
+UCRANIA --> 37 puntos

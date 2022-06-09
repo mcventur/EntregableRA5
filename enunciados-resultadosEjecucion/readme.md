@@ -6,16 +6,16 @@ El fichero puntuaciones.txt (dentro de resources) contiene los datos a utilizar
 ---
 
 ### 2. GUI
-Diseña el interfaz gráfico con ayuda de SceneBuilder de forma que obtengas una GUI tal como se ve en el vídeo
+DiseÃ±a el interfaz grÃ¡fico con ayuda de SceneBuilder de forma que obtengas una GUI tal como se ve en el vÃ­deo
 
-[URL del vídeo](https://www.loom.com/share/603262d995aa41e481c6c1b07085075b)
+[URL del vÃ­deo](https://www.loom.com/share/603262d995aa41e481c6c1b07085075b)
 
-La raíz del grafo de escena es un BorderPane.
-Arriba hay una barra de menú y en el centro otro BorderPane.
-El resto diséñalo como prefieras.
-Respeta la convención de nombres que hemos seguido para los componentes.
+La raÃ­z del grafo de escena es un BorderPane.
+Arriba hay una barra de menÃº y en el centro otro BorderPane.
+El resto disÃ©Ã±alo como prefieras.
+Respeta la convenciÃ³n de nombres que hemos seguido para los componentes.
 ---
-### 3. Gestión de eventos
-Los eventos a programar, además de los click en items de menú,
-será click en los tres botones y el click en la caja de texto del pais.
-Deduce a partir del vídeo qué es lo que se hará.
+### 3. GestiÃ³n de eventos
+Los eventos a programar, ademÃ¡s de los click en items de menÃº,
+serÃ¡ click en los tres botones y el click en la caja de texto del pais.
+Deduce a partir del vÃ­deo quÃ© es lo que se harÃ¡.
